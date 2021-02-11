@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Donation</title>
+    <link rel ="stylesheet" href="test.css">
+</head>
+<body>
+<div class="bg"></div>
+<div class="bg bg2"></div>
+<div class="bg bg3"></div>
+<div class="content">
+    <div class ="img text"> 
+      <img src="https://image.freepik.com/free-vector/artistic-leaf-logo-design-agriculture-company_100735-16.jpg" alt="" width="60px">
+    </div>
+  <h2><i>GREETINGS...
+        <br>
+        <br>
+        "Since it's been 1 year, Shubhangi Enterprises have succeeded a lot growth in market with the 
+         help of our co-workers, our marketing team and the employees in the company. On this occassion, 
+         we are willing to have a small party for our success. Kindly click below for donation.
+         <br>
+         <br>
+         Thankyou!
+  </i></h2>
+     </div>
+    
+
+</body>
+</html>
+
+
+<div class="button">
+  <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_GaElkzG1rk4Inh" async> </script> </form>
+</div>
